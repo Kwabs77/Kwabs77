@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Kwabena Owusu Achiaw. A front-end developer with proficient skills in Web Development, Cross- Browser Operability, Project Management, Work flow optimization, User Requirements Gathering, JavaScript, TypeScript, React, CSS, Sass, Redux, HTML, Styled Component, GitHub and  Slack 
+ I'm Kwabena Owusu Achiaw. A front-end developer with proficient skills in Web Development, Cross- Browser Operability, Project Management, Work flow optimization, User Requirements Gathering, JavaScript, TypeScript, React, CSS, Sass, Redux, HTML, Styled Component, GitHub and  Slack 
 
 ##  👨🏻💻 About Me
  💻  Proficient in web development with frameworks like React.
