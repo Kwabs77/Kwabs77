@@ -2,16 +2,16 @@
 
 I'm Kwabena Owusu Achiaw 
 
-### 👨🏻•💻 About Me
-💻  Proficient in web development with frameworks like React.
+# 👨🏻•💻 About Me
+### 💻  Proficient in web development with frameworks like React.
 
-🎓   A graduate with Bsc Electrical and Electronic Engineering.
+### 🎓   A graduate with Bsc Electrical and Electronic Engineering.
 
-🤔   Exploring new technologies and developing software solutions.
+### 🤔   Exploring new technologies and developing software solutions.
 
-✍️   Open to new opportunities both locally and remote🤔.
+### ✍️   Open to new opportunities both locally and remote🤔.
 
-✍️   My hobbie is solving javascript || TypeScript coding challenges on Codesignal and building personal fun projects right from inception to deployment🤔.
+### ✍️   My hobbie is solving javascript || TypeScript coding challenges on Codesignal and building personal fun projects right from inception to deployment🤔.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabs77)](https://github.com/anuraghazra/github-readme-stats)
