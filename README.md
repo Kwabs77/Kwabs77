@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Kwabena Owusu Achiaw 
 
-# 👨🏻•💻 About Me
+##  👨🏻💻 About Me
 ### 💻  Proficient in web development with frameworks like React.
 
 ### 🎓   A graduate with Bsc Electrical and Electronic Engineering.
